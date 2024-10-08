@@ -14,8 +14,8 @@ While creating the object, arguments must be passed to let compiler know, which 
 #### Code 
 (A) <br> 
 ```
-// NAME - SHIVENDRA DWIVEDI
-// PRN - 23070123122
+// NAME - GARV NANDWANA
+// PRN - 23070123167
 // EXPERIMENT - 13(A) 
 
 # include<iostream>
@@ -66,8 +66,8 @@ int main()
 
 (B) <br> 
 ```
-// NAME -SHIVENDRA DWIVEDI
-// PRN - 23070123122
+// NAME -GARV NANDWANA
+// PRN - 23070123167
 // EXPERIMENT -13(B) 
 
 #include<iostream>
